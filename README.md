@@ -5,6 +5,7 @@
 1. go to *Backend* folder using ```cd Backend```
 2. Install project dependencies using ```npm install```
 3. Make sure to install mysql in local system
+4. Add your database credentials in .env file like ```DB_USER, DB_PASS, DB_HOST, DATABSE_PORT``` 
 4. Create database in mysql and name it as ```TEST_DB```
 5. Run the api using ```npm start``` command
 
